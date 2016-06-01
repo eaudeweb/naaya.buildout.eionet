@@ -1,0 +1,5 @@
+base:
+    '*':
+        - dependencies
+        - webserver
+        - python
